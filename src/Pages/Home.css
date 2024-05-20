@@ -1,0 +1,21 @@
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Crimson Text', serif;
+  
+  }
+  p{
+    font-family: 'Dancing Script', cursive;
+    font-size: 22px;
+  }
+  body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+  #d{
+    transition: .5s ease-in-out;
+    }
+    #d:hover{
+      transform: scale(1.05);
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+    }
