@@ -42,7 +42,7 @@ function Home() {
         <div>
             <Row className='pt-5 pb-5'>
                 <Col className='text-center p-5'>
-                    <h1 className='text-warning mt-5'>MovieMix</h1>
+                    <h1 className='text-warning  mt-5'>MovieMix</h1>
                     <p className='mt-3 w-5 container'>The MovieMix app revolutionizes the way audiences experience
                         cinema by offering a seamless platform for browsing, booking, and enjoying their favorite films.
                         With its intuitive interface, users can effortlessly search for movies, select showtimes,
